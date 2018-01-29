@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MyLib\\Obj\\" : "src/"
+      "MyLib\\ObjUtil\\" : "src/"
     }
   },
   "suggest": {

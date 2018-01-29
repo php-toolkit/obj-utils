@@ -6,14 +6,14 @@
  * Time: 下午9:39
  */
 
-namespace MyLib\Obj;
+namespace MyLib\ObjUtil;
 
-use MyLib\Obj\Traits\ObjectPoolTrait;
+use MyLib\ObjUtil\Traits\ObjectPoolTrait;
 
 /**
  * Class Obj
  *  alias of the ObjectHelper
- * @package MyLib\Obj
+ * @package MyLib\ObjUtil
  */
 class Obj extends ObjectHelper
 {

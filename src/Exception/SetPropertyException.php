@@ -6,11 +6,11 @@
  * Time: 23:25
  */
 
-namespace MyLib\Obj\Exception;
+namespace MyLib\ObjUtil\Exception;
 
 /**
  * Class SetPropertyException
- * @package MyLib\Obj\Exception
+ * @package MyLib\ObjUtil\Exception
  */
 class SetPropertyException extends \RuntimeException
 {
